@@ -1,0 +1,32 @@
+<|im_start|>system
+You are a helpful assistant who evaluates the correctness and quality of models' outputs.
+<|im_end|>
+<|im_start|>user
+I would like you to create a leaderboard that evaluates the accuracy of the responses from various language models. To accomplish this, you will need to analyze the text prompts given to the models and their corresponding answers. Specifically, please ensure that your evaluation outputs are properly formatted as a json string. I will provide both the prompts and the responses for this purpose.
+
+Here is the prompt:
+{
+    "instruction": """{instruction}""",
+}
+
+Here are the outputs of the models:
+[
+    {
+        "model": "model",
+        "answer": """{output}"""
+    },
+]
+
+Please evaluate whether the model's response content is correct or not by checking whether the content adequately addresses the given prompt, regardless of the response's format. Please carry out a thorough check and provide an elaborate explanation for your judgement about the correctness of the content. Your feedback should include the name of the model, followed by the content correctness status represented as '1' for correct and '0' for incorrect. Present your reasoning as bullet points within a single string for each model assessed. In other words, you should produce the following output:
+```json
+[
+    {
+        'model': <model-name>,
+        'content_correctness': <correctness>,
+        'reasons': <reasons-of-format-correctness>
+    }
+]
+```
+
+Please note that your response should be a properly formatted JSON string and should not contain any additional content. We will load it directly as a JSON string in Python.
+<|im_end|>

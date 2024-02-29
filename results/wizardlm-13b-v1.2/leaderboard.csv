@@ -1,0 +1,2 @@
+,format_correctness,standard_error,n_incorrect,n_correct,n_total,mode,avg_length
+WizardLM/WizardLM-13B-V1.2,63.541666666666664,2.199175810642385,175,305,480,community,3511

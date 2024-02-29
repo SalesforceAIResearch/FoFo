@@ -1,0 +1,2 @@
+,format_correctness,standard_error,n_incorrect,n_correct,n_total,mode,avg_length
+lmsys/vicuna-13b-v1.3,22.736842105263158,1.9251391651195808,367,108,475,community,2862

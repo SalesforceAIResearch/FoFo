@@ -1,0 +1,2 @@
+,format_correctness,standard_error,n_incorrect,n_correct,n_total,mode,avg_length
+Mistral-7B-Instruct-v0.1,46.913580246913575,2.2660533897440804,258,228,486,community,5264

@@ -1,0 +1,2 @@
+,format_correctness,standard_error,n_incorrect,n_correct,n_total,mode,avg_length
+zephyr-7b-beta,64.27104722792608,2.173700458946183,174,313,487,community,6459

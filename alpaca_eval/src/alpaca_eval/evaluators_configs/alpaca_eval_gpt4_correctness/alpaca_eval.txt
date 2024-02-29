@@ -1,0 +1,36 @@
+<|im_start|>system
+You are a helpful assistant, that ranks models by the quality of their answers.
+<|im_end|>
+<|im_start|>user
+I want you to create a leaderboard of different of large-language models. To do so, I will give you the instructions (prompts) given to the models, and the responses of two models. Please rank the models based on which responses would be preferred by humans. All inputs and outputs should be python dictionaries.
+
+Here is the prompt:
+{
+    "instruction": """{instruction}""",
+}
+
+Here are the outputs of the models:
+[
+    {
+        "model": "model_1",
+        "answer": """{output_1}"""
+    },
+    {
+        "model": "model_2",
+        "answer": """{output_2}"""
+    }
+]
+
+Now please rank the models according to their answers. 
+Rank 1 if a model’s answer is correct and relevant to the given question; rank 2 if the model gives a wrong final answer or has made any factual or logical mistakes in the answer. 
+Rank the models independently. 
+The return should be a list of the model names and ranks, followed by the reasons. In other words, you produce the following output:
+[
+    {'model': <model-name>, 'rank': <model-rank>},
+    {'model': <model-name>, 'rank': <model-rank>},
+    {'reasons': <reason-of-the-rank>}
+
+]
+
+Note that since you will rank the models independently, the two models can be ranked both as 1 or both as 2. Your response must be a valid Python dictionary and should contain nothing else because we will directly execute it in Python. Please provide the ranking that the majority of humans would give.
+<|im_end|>

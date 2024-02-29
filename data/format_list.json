@@ -1,0 +1,2502 @@
+[
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "ICD-10 format (International Classification of Diseases, 10th Revision)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "LOINC format (Logical Observation Identifiers Names and Codes)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "CAP format (College of American Pathologists protocol)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "DICOM SR (Structured Report)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "HL7 CDA (Health Level Seven Clinical Document Architecture)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "Medical Reports"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "Prescription Formats"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "SOAP Notes"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "Discharge Summary"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "Clinical Trial Protocols"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "Electronic Health Record (EHR) Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "Discharge Summary Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "Clinical Trial Report Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "Prescription Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "Medical Coding and Billing Statement Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "Clinical Study Report (CSR)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "Clinical Trial Protocol"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "Patient Reported Outcomes (PRO)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "Patient Data Report (PDR)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "Adverse Event Report (AER)"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "RxNorm Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "HL7 (Health Level 7) Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "ICD-10 Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "LOINC Format"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "Fast Healthcare Interoperability Resources (FHIR) Format"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "Compromised Account Report Format"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "Credit Card Fraud Alert Format"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "Investment Fraud Detection Report"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "Loan Fraud Report Format"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "Insurance Fraud Detection Report"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "FIX Protocol Message"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "Standard Portfolio Analysis of Risk (SPAN) Data"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "Thomson Reuters EIKON data"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "Bloomberg Terminal Data"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "Morningstar Data"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "Financial Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "Investment Strategy Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "Personal Financial Plans"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "Risk Profile Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "Asset Performance Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "Financial Risk Analysis Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "Basel III Regulatory Filings"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "Value At Risk (VaR) Statements"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "Credit Default Swap (CDS) Spreads"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "Stress Testing Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "Legal Document Format"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "Financial Report Format (FRF)"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "Risk Assessment Reports"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "Regulatory Filings Format"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "Compliance Audit Reports"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "HTML (HyperText Markup Language)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "CSS (Cascading Style Sheets)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "JavaScript"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "SVG (Scalable Vector Graphics)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": ".htaccess"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "Python Files (.py)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "JavaScript Files (.js)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "SQL Files (.sql)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "Java Source Files (.java)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "C++ Source Code Files (.cpp)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "UX/UI Mockup Annotation"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "User Journey Mapping Text"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "Usability Test Session Transcripts"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "UX/UI Design Specification (Typography, Palette, etc.)"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "User Persona Description"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "SQL Result Set"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "Python Pandas DataFrame"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "R Data Frame Output"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "Data Dictionary Output"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "Log File Output"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "Test Plan"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "Test Case Description"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "Bug/Issue Report"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "Test Summary Report"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "Requirement Traceability Matrix (RTM)"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "E-commerce Invoice Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "Personalized Product Recommendation"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "Shopping Cart Abandonment Reminder"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "Shipping and Delivery Notification"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "Customer Review and Rating Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "Manufacturing Reports Format (MRF)"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "Bill of Materials (BOM)"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "Work Instruction Format (WIF)"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "Standard Operating Procedure (SOP)"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "Production Scheduling Format (PSF)"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "Purchase Order (PO) Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "Inventory Report Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "Sales Forecast Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "Shipping Status Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "Return/Replacement Order Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "Product Inspection Report"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "Quality Assurance (QA) Test Report"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "Defect Tracking Log"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "Product Compliance Certificate"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "Supplier Quality Report"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "Freight Bill Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "Inventory Update Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "Shipping Manifest Format"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "Route Optimization Report"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "Order Pick List"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "Customer Email Response Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "Live Chat Transcript Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "Customer Feedback Form Response Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "Ticketing System Response Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "Social Media Comment Response Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "Sales Forecast Report"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "Key Performance Indicator (KPI) Report"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "Pipeline Report"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "Sales Targets Report"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "CRM Dashboard Summary"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "Resume Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "Job Description Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "Interview Schedule Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "Applicant Status Update Format"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "Candidate Comparative Analysis"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "Gantt Chart Representation"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "Task Breakdown Structure (TBS)"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "Project Status Reports"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "Meeting Minutes"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "Risk Assessment Reports"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "Lead Score Reports"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "Sales Funnel Analysis Documents"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "Lead Demographic Profiles"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "Customer Interaction Logs"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "Predictive Scoring Reports"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": " **Consumer Behavior Report** "
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": " **Marketing Performance Dashboard** "
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": " **Advertising Copy Feedback** "
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": " **Social Media Sentiment Analysis** "
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": " **Competitor Analysis Summary** "
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": " Advertising Audience Profile Format"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": " KPI Report Format"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": " A/B Test Result Format"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": " Competitive Analysis Format"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": " Campaign Budget Format"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": " Blog Post"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": " Social Media Post"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": " Email Newsletters"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": " Press Release"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": " SEO Content"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": " Social Media Report"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": " Content Calendar"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": " User Sentiment Analysis"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": " Hashtags Usage Report"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": " Social Media Customer Inquiries Response"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": " SERP (Search Engine Results Page) Report"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": " SEO Keyword Analysis"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": " On-Page SEO Audits"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": " Backlink Profile Report"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": " Competitor Analysis Report"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": " LaTeX"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": " MathML (Mathematical Markup Language)"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": " SageMath Notebooks"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": " Maple"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": " MATLAB scripts"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": " LaTeX (.tex)"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": " MathML (.mathml)"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": " BibTeX (.bib)"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": " Research Paper Abstract Structured Text"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": " Physical Quantities and Units in UCUM (.ucum)"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": " **FASTA Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": " **PDB Format (Protein Data Bank)**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": " **GenBank Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": " **SMILES Format (Simplified Molecular Input Line Entry System)**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": " **MOL and SDF Formats (MOLecular and Structure-Data File)**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": " **Research Paper (APA Format)**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": " **Scientific Report Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": " **Environmental Impact Statement (EIS)**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": " **Peer Review Reports**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": " **Policy Briefs**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": " **NASA Planetary Data System (PDS) Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": " **MISSION OPERATION REPORT (MOR) Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": " **OBSErVation Time Series (OBSErVTS) Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": " **Spacecraft Event Language (SEL) Format**"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": " **Telescope Observation Request (TOR) Format**"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": " Personalized Learning Plan (PLP)"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": " Assessment Results Format (ARF)"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": " Interactive Course Content Format (ICCF)"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": " Collaboration Log Format (CLF)"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": " Task Progress Report Format (TPRF)"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": " Lesson Summary Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": " Student Performance Report Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": " Quiz/Instruction Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": " Feedback/Correction Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": " Personalized Learning Path Recommendation Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": " Rubric Score Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": " Student Report Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": " Class Rank Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": " Question Assessment Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": " Error Analysis Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": " **Report in Academic Results Format (ARF)**"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": " **Student Behavior Analysis Format (SBAF)**"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": " **Educational Content Analysis Format (ECAF)**"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": " **Learning Style Analysis Format (LSAF)**"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": " **Teaching Performance Evaluation Format (TPEF)**"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": " Learning Material Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": " Quizzes/Test Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": " Progress Report Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": " Language Translation Format"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": " Phonetic Script Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": " Legal Brief Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": " Contract Abstract Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": " Risk Assessment Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": " Clause Breakdown Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": " Legal Opinion Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": " Legal Document Format (.docx)"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": " Portable Document Format (.pdf)"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": " Legal XML (LegalXML)"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": " Rich Text Format (.rtf)"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": " Interactive Legal Applications Markup Language (iLAML)"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": " Legal Brief"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": " Case Citation"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": " Contract Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": " Legal Memorandum"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": " Statute"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": " Legal Reporting Document"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": " Case Brief Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": " Legal Opinion Letter Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": " Legal Memorandum Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": " Legal Case Study Format"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": " **Patent Disclosure Forms"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": " **Trademark Registration Documents"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": " **Copyright Registration Forms"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": " **Intellectual Property Agreement Contracts"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": " **Patent Litigation Documents"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": " **Lyrics Text Format**"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": " **Chord Sheet Format**"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": " **Musical Score Text Format**"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": " **Tracklist Format**"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": " **Metadata Format**"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": " Screenplay Format"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": " Synopsis/Outline Format"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": " Treatment Format"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": " Beat Sheet Format"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": " Character Profile/Backstory Format"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": " SVG (Scalable Vector Graphics)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": " GLSL (OpenGL Shading Language)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": " TikZ (code for creating vector graphics)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": " POV-Ray Scene Description Language (SDL)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": " G-code (a language in which people instruct computerized machine tools)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": " Game Design Document (GDD)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": " Interactive Fiction Markup Language (IFML)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": " Lua table for game configuration"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": " GLSL Shader Code"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": " Unreal Engine Blueprints Visual Scripting (Print String Node)"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": " Game Statistics Report"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": " Training Performance Summary"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": " Player Ranking Report"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": " Injury Report"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": " Match Prediction Report"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "json"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "csv"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "xml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "yaml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Diagnostics",
+    "format": "markdown"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "json"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "csv"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "xml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "yaml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Medical Treatment",
+    "format": "markdown"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "json"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "csv"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "xml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "yaml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Patient Care Management",
+    "format": "markdown"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "json"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "csv"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "xml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "yaml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Clinical Trial Analysis",
+    "format": "markdown"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "json"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "csv"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "xml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "yaml"
+  },
+  {
+    "domain": "Healthcare",
+    "sub_domain": "Pharmaceuticals",
+    "format": "markdown"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "json"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "csv"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "xml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "yaml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Fraud Detection",
+    "format": "markdown"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "json"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "csv"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "xml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "yaml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Algorithm Trading",
+    "format": "markdown"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "json"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "csv"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "xml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "yaml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Personalized Financial Advice",
+    "format": "markdown"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "json"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "csv"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "xml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "yaml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Risk management",
+    "format": "markdown"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "json"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "csv"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "xml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "yaml"
+  },
+  {
+    "domain": "Finance",
+    "sub_domain": "Regulatory Compliance",
+    "format": "markdown"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "json"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "csv"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "xml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "yaml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Web Design",
+    "format": "markdown"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "json"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "csv"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "xml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "yaml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Programming",
+    "format": "markdown"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "json"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "csv"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "xml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "yaml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "UI/UX Design",
+    "format": "markdown"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "json"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "csv"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "xml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "yaml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Data Analysis",
+    "format": "markdown"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "json"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "csv"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "xml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "yaml"
+  },
+  {
+    "domain": "Technology and Software",
+    "sub_domain": "Testing",
+    "format": "markdown"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "json"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "csv"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "xml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "yaml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "E-commerce Personalization",
+    "format": "markdown"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "json"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "csv"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "xml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "yaml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Manufacturing Process Optimization",
+    "format": "markdown"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "json"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "csv"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "xml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "yaml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Inventory and Supply Chain Management",
+    "format": "markdown"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "json"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "csv"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "xml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "yaml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Quality Control",
+    "format": "markdown"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "json"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "csv"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "xml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "yaml"
+  },
+  {
+    "domain": "Commerce and Manufacturing",
+    "sub_domain": "Smart Logistics and Route Optimization",
+    "format": "markdown"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "json"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "csv"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "xml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "yaml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Customer Service",
+    "format": "markdown"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "json"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "csv"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "xml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "yaml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Sales Forecasting",
+    "format": "markdown"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "json"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "csv"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "xml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "yaml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Recruitment Assistants",
+    "format": "markdown"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "json"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "csv"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "xml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "yaml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Project Management",
+    "format": "markdown"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "json"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "csv"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "xml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "yaml"
+  },
+  {
+    "domain": "Customer Relationship Management (CRM)",
+    "sub_domain": "Lead Scoring",
+    "format": "markdown"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": "json"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": "csv"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": "xml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": "yaml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Consumer Behavior Analysis",
+    "format": "markdown"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": "json"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": "csv"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": "xml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": "yaml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Advertising Campaign Optimization",
+    "format": "markdown"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": "json"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": "csv"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": "xml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": "yaml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Content Curation and Creation",
+    "format": "markdown"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": "json"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": "csv"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": "xml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": "yaml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Social Media Management",
+    "format": "markdown"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": "json"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": "csv"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": "xml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": "yaml"
+  },
+  {
+    "domain": "Marketing",
+    "sub_domain": "Search Engine Optimization (SEO)",
+    "format": "markdown"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": "json"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": "csv"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": "xml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": "yaml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Mathematical Research",
+    "format": "markdown"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": "json"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": "csv"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": "xml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": "yaml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Physics",
+    "format": "markdown"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": "json"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": "csv"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": "xml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": "yaml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Chemistry and Biological Sciences",
+    "format": "markdown"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": "json"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": "csv"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": "xml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": "yaml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Environmental Sciences and Climate Change",
+    "format": "markdown"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": "json"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": "csv"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": "xml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": "yaml"
+  },
+  {
+    "domain": "Scientific Research and Development",
+    "sub_domain": "Space Exploration",
+    "format": "markdown"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": "json"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": "csv"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": "xml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": "yaml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Adaptive Learning Platforms",
+    "format": "markdown"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": "json"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": "csv"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": "xml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": "yaml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Intelligent Tutoring Systems",
+    "format": "markdown"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": "json"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": "csv"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": "xml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": "yaml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Automated Grading Systems",
+    "format": "markdown"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": "json"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": "csv"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": "xml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": "yaml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Education Data Analysis",
+    "format": "markdown"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": "json"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": "csv"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": "xml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": "yaml"
+  },
+  {
+    "domain": "Education",
+    "sub_domain": "Language Learning",
+    "format": "markdown"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": "json"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": "csv"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": "xml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": "yaml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Contract Review and Analysis",
+    "format": "markdown"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": "json"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": "csv"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": "xml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": "yaml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Document Automation",
+    "format": "markdown"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": "json"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": "csv"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": "xml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": "yaml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Legal Research",
+    "format": "markdown"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": "json"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": "csv"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": "xml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": "yaml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Predictive Legal Analytics",
+    "format": "markdown"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": "json"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": "csv"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": "xml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": "yaml"
+  },
+  {
+    "domain": "Legal",
+    "sub_domain": "Intellectual Property (IP) Management",
+    "format": "markdown"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": "json"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": "csv"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": "xml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": "yaml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Music",
+    "format": "markdown"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": "json"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": "csv"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": "xml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": "yaml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Film Scriptwriting",
+    "format": "markdown"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": "json"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": "csv"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": "xml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": "yaml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Visual Art Creation",
+    "format": "markdown"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": "json"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": "csv"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": "xml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": "yaml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Video Game Development",
+    "format": "markdown"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": "json"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": "csv"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": "xml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": "yaml"
+  },
+  {
+    "domain": "Arts and Entertainment",
+    "sub_domain": "Sports Analytics and Performance",
+    "format": "markdown"
+  }
+]
