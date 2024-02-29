@@ -20,11 +20,11 @@ data_path='data/fofo_test_prompts.json'
 output_path='results'
 ```
 
-### 1. inference models separately
+### 1. Get model outputs
 ```
 CUDA_VISIBLE_DEVICES='0' python scripts/inference_anymodel_anydata.py --input_file_path $data_path --output_file_path $output_path/wizardlm-13b-v1.2/model_outputs.json --model_name_or_path WizardLM/WizardLM-13B-V1.2 --prompt_style wizardlm --max_seq_length 5120```
 ```
-### 2. Evaluate: directly evalute the results with given outputs
+### 2. Evaluate models' performance based on the outputs
 ```
 alpaca_eval --annotators_config gpt4_format_correctness --model_outputs $output_path/chatgpt/reference_outputs.json --output_path $output_path/wizardlm-13b-v1.2/
 ```
