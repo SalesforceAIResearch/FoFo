@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES='0' python scripts/inference_anymodel_anydata.py --input_fi
 ```
 alpaca_eval --annotators_config gpt4_format_correctness --model_outputs $output_path/chatgpt/reference_outputs.json --output_path $output_path/wizardlm-13b-v1.2/
 ```
-### 2. Domain/Format analysis
+### 3. Domain/Format analysis
 If you want to draw radar figures of your model's performance and conduct domain/format analysis, please refer to 
 ```
 scripts/draw_analysis.py
