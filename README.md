@@ -3,6 +3,9 @@
 conda create --prefix ./envs/ python=3.10
 conda init
 conda activate envs
+cd scripts
+pip install -r requirements.txt
+cd ..
 cd alpaca_eval
 pip install -e .[all]
 pip install openai==0.27.0
