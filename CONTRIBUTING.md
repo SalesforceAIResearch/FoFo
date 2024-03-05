@@ -40,7 +40,7 @@ Use GitHub Issues page to submit issues, enhancement requests and discuss ideas.
   -  Include tests that isolate the bug and verifies that it was fixed.
 
 ### New Features
--  If you'd like to add new functionality to this project, describe the problem you want to solve in a [new Issue](https://github.com/FoFo/issues/new).
+-  If you'd like to add new functionality to this project, describe the problem you want to solve in a [new Issue](https://github.com/SalesforceAIResearch/FoFo/issues/new).
 -  Issues that have been identified as a feature request will be labelled `enhancement`.
 -  If you'd like to implement the new feature, please wait for feedback from the project
    maintainers before spending too much time writing the code. In some cases, `enhancement`s may
@@ -51,7 +51,7 @@ Use GitHub Issues page to submit issues, enhancement requests and discuss ideas.
    alternative implementation of something that may have advantages over the way its currently
    done, or you have any other change, we would be happy to hear about it!
   -  If its a trivial change, go ahead and [send a Pull Request](#creating_a_pull_request) with the changes you have in mind.
-  -  If not, [open an Issue](https://github.com/FoFo/issues/new) to discuss the idea first.
+  -  If not, [open an Issue](https://github.com/SalesforceAIResearch/FoFo/issues/new) to discuss the idea first.
 
 If you're new to our project and looking for some way to make your first contribution, look for
 Issues labelled `good first contribution`.
