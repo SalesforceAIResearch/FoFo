@@ -1,3 +1,5 @@
+This repo is for research only.
+
 ## Setup Enviroment
 ```
 conda create --prefix ./envs/ python=3.10
