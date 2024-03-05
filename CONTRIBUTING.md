@@ -32,8 +32,8 @@ Please join the community on {Here list Slack channels, Email lists, Glitter, Di
 Use GitHub Issues page to submit issues, enhancement requests and discuss ideas.
 
 ### Bug Reports and Fixes
--  If you find a bug, please search for it in the [Issues](https://github.com/FoFo/issues), and if it isn't already tracked,
-   [create a new issue](https://github.com/FoFo/issues/new). Fill out the "Bug Report" section of the issue template. Even if an Issue is closed, feel free to comment and add details, it will still
+-  If you find a bug, please search for it in the [Issues](https://github.com/SalesforceAIResearch/FoFo/issues), and if it isn't already tracked,
+   [create a new issue](https://github.com/SalesforceAIResearch/FoFo/issues/new). Fill out the "Bug Report" section of the issue template. Even if an Issue is closed, feel free to comment and add details, it will still
    be reviewed.
 -  Issues that have already been identified as a bug (note: able to reproduce) will be labelled `bug`.
 -  If you'd like to submit a fix for a bug, [send a Pull Request](#creating_a_pull_request) and mention the Issue number.
