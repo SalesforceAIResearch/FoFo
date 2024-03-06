@@ -38,3 +38,14 @@ If you want to draw radar figures of your model's performance and conduct domain
 ```
 scripts/draw_analysis.py
 ```
+
+## Citation
+Please consider using the follow citation when using our code:
+```
+@article{xia2024fofo,
+  title={FOFO: A Benchmark to Evaluate LLMs' Format-Following Capability},
+  author={Xia, Congying and Xing, Chen and Du, Jiangshu and Yang, Xinyi and Feng, Yihao and Xu, Ran and Yin, Wenpeng and Xiong, Caiming},
+  journal={arXiv preprint arXiv:2402.18667},
+  year={2024}
+}
+```
